@@ -18,9 +18,11 @@ Soy un entusiasta de la tecnología en constante aprendizaje. Actualmente me enc
 
 #### **Programación & Frontend**
 !HTML5
-![CSS3]
-![JavaScript]
-![React]
+!CSS3
+!JavaScript
+!React
+!Pyhton
+!Fastapi
 
 #### **Diseño & Herramientas**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -38,6 +40,8 @@ Soy un entusiasta de la tecnología en constante aprendizaje. Actualmente me enc
       https://itekne.cl/
       https://solucionesmb.cl/
       https://cvetcahuil.cl/
+Cotizador web para empresa el cual despliega un archivo pdf con toda la información de valores, productos o servicio, IVA AUTOMATICO 
+https://cotizador.solucionesmb.cl/login.php
 
 ### 📫 ¿Cómo contactarme?
 
