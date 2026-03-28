@@ -17,7 +17,7 @@ Soy un entusiasta de la tecnología en constante aprendizaje. Actualmente me enc
 ### 💻 Stack Tecnológico
 
 #### **Programación & Frontend**
-![HTML5]
+!HTML5
 ![CSS3]
 ![JavaScript]
 ![React]
