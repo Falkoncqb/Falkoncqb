@@ -41,8 +41,7 @@ Soy un entusiasta de la tecnología en constante aprendizaje. Actualmente me enc
       https://solucionesmb.cl/
       https://cvetcahuil.cl/
       https://viejozorrodiseno.com/
-Cotizador web para empresa el cual despliega un archivo pdf con toda la información de valores, productos o servicio, IVA AUTOMATICO 
-https://cotizador.solucionesmb.cl/login.php
+COTIZADOR EN ANGULAR ENTREGA AUTOMATIZACIONES PARA GESTIONAR CLIENTES Y COTIZACIONES INTERFAZ MODERNA https://github.com/Falkoncqb/cotizador-angular
 
 ### 📫 ¿Cómo contactarme?
 
