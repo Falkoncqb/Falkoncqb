@@ -17,14 +17,13 @@ Soy un entusiasta de la tecnología en constante aprendizaje. Actualmente me enc
 ### 💻 Stack Tecnológico
 
 #### **Programación & Frontend**
-!HTML5
-!CSS3
-!JavaScript
-!React
-!Pyhton
-!Fastapi
-!Angular
-!Reac
+HTML5
+CSS3
+JavaScript
+React
+Pyhton
+Fastapi
+Angular
 
 #### **Diseño & Herramientas**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
